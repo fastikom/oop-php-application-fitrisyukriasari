@@ -1,2 +1,3 @@
-# oop-php-application-fitrisyukriasari
-oop-php-application-fitrisyukriasari created by GitHub Classroom
+Fitri Syukriasari 
+20141050097
+Pemrograman Framework
